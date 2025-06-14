@@ -1,5 +1,5 @@
 # 📊 AtliQ Hotels Data Analysis Project Using Python
-🧩 Problem Statement
+# 🧩 Problem Statement
 AtliQ Grands, a prominent hotel chain in India, is facing increased competition and declining revenues. To regain its market position, the management has decided to leverage data analytics for insights-driven strategies. Lacking in-house data expertise, they sought external help to uncover trends, identify opportunities, and make informed decisions for customer retention and revenue growth.
 
 🎯 Project Goal
